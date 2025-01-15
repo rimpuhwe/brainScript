@@ -8,5 +8,5 @@
 
 1. Able to  add books to the library.
 2. displaying the list of available books.
-3.ease  for users to borrow and return books, updating their availability status.
+3. ease  for users to borrow and return books, updating their availability status.
 4. Ensure proper validation to handle cases like trying to borrow an unavailable book.
